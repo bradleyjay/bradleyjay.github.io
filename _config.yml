@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Python Strugglebu
-tagline:          'Where learning and doing never happen'
-description:      'Come learn Python with me! Struggles and solutions. The struggle is real.'
+title:            Python: Inside Out
+tagline:          'We put the "crash" in crash course'
+description:      'Explore Python with me! OOP, data structures, algorithms, and data science methods'
 url:              https://bradleyjay.github.io
 baseurl:          /
 
