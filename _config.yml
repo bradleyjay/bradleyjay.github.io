@@ -6,8 +6,8 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Python Inside Out
-tagline:          'We put the "crash" in crash course'
+title:            Python
+tagline:          'Inside Out'
 description:      'Explore Python with me! OOP, data structures, algorithms, and data science methods'
 url:              https://bradleyjay.github.io
 baseurl:          /
