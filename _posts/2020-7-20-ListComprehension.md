@@ -3,7 +3,7 @@ layout: post
 title: Lists and Memory
 ---
 
-Let's tackle lists one last time. Scout's honor. For now.
+Let's tackle lists one last time. Scout's honor. For now. 
 
 Creating lists with nested operations can get messy, as can working with large lists. So this time let's talk creating lists and memory. Remember lists? Yuk yuk.
 
