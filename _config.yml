@@ -6,8 +6,8 @@ permalink:        pretty
 
 # Setup
 title:            Python
-tagline:          'Inside Out'
-description:      'Explore Python with me! OOP, data structures, algorithms, and data science methods '
+tagline:          'Under the Hood'
+description:      'Under the Hood: Explore Python with me! OOP, data structures, algorithms, and data science methods'
 url:              https://bradleyjay.github.io
 baseurl:          /
 
